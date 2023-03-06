@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Feijoada Caseira</title>
+	<h1>Feijoada Caseira</h1>
 </head>
 <body>
 <h2> Ingredientes </h2>
